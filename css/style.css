@@ -6,7 +6,7 @@ h1,h2,p{
 }
 
 body{
-    background-image: url('/img/bg.jpg');
+    background-image: url('../img/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
