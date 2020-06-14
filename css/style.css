@@ -40,8 +40,8 @@ header{
 }
 
 #table1{
-    width: fit-content;
-    height: fit-content;
+    width: 40%;
+    height:370px;
     position: absolute;
     left: 51%;
     top: 38%;
